@@ -33,7 +33,7 @@ public class PrintTicket1 extends JFrame
 		JLabel LEmpty = new JLabel("---------------------------------------------------------------------------------------------------------------------------------------------------------------------------");
 		JLabel LDemo = new JLabel("<html><U><font color=\"#8FBC8F\">AirLine-Project Developed By</font></U></html>");
 		JLabel LFranklin=new JLabel("<html><I><font color=\"#8FBC8F\">Aditya Patil</font></I></html>");
-		JLabel LRavi=new JLabel("<html><I><font color=\"#8FBC8F\">Piyush Pachre</font></I></html>");
+		JLabel LRavi=new JLabel("<html><I><font color=\"#8FBC8F\">Piyush Pachare</font></I></html>");
 		
 
 
