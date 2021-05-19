@@ -24,7 +24,7 @@ public class PrintTicket1 extends JFrame
 		JLabel LAdult = new JLabel("<html><font color=\"#000000\">Adult &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;: &nbsp;</font><font color=\"#778899\">"+iAdult+"</font></html>" );
 		JLabel LChildren = new JLabel("<html><font color=\"#000000\">Children &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp;</font><font color=\"#778899\">"+ iChildren+"</font></html>" );
 		JLabel LInfant = new JLabel("<html><font color=\"#000000\">Infant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp;</font><font color=\"#778899\">"+iInfant+"</font></html>" );
-		JLabel LWishes = new JLabel("<html><body><I><font color=\"#D2B48C\">Wish you a happy journy</font></I></body></html>");
+		JLabel LWishes = new JLabel("<html><body><I><font color=\"#D2B48C\">Wish you a happy journey</font></I></body></html>");
 
 
 		JLabel LTicketNo=new JLabel("<html><font color=\"#000000\">TicketNumber &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp;</font></html>");
@@ -32,10 +32,9 @@ public class PrintTicket1 extends JFrame
 
 		JLabel LEmpty = new JLabel("---------------------------------------------------------------------------------------------------------------------------------------------------------------------------");
 		JLabel LDemo = new JLabel("<html><U><font color=\"#8FBC8F\">AirLine-Project Developed By</font></U></html>");
-		JLabel LFranklin=new JLabel("<html><I><font color=\"#8FBC8F\">R Franklin Bourgia Singh</font></I></html>");
-		JLabel LRavi=new JLabel("<html><I><font color=\"#8FBC8F\">V.R Ravi Sankar</font></I></html>");
-		JLabel LMayuran=new JLabel("<html><I><font color=\"#8FBC8F\">B Mayuran</font></I></html>");
-		JLabel LSathya=new JLabel("<html><I><font color=\"#8FBC8F\">Sathyaraj</font></I></html>");
+		JLabel LFranklin=new JLabel("<html><I><font color=\"#8FBC8F\">Aditya Patil</font></I></html>");
+		JLabel LRavi=new JLabel("<html><I><font color=\"#8FBC8F\">Piyush Pachre</font></I></html>");
+		
 
 
 		LTitle.setBounds(170,15,500,45);
